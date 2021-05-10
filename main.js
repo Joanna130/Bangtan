@@ -1,5 +1,4 @@
- function changecolor(){
-   document.getElementById("para").style. color='purple';
-}
-
+function changecolor(){
+    document.getElementById("para").style. color='purple';
+ }
  
